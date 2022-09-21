@@ -4,12 +4,13 @@ An index of algorithms in
 - causal discovery
 - causal representation learning
 - causal learning for out of distribution
-
+- causal domain adaptation
 
  Table of Contents
 
 - [Causal Discovery](#causal-discovery)
 - [Causal Representation Learning](#causal-representation-learning)
+- [Causal Domain Adaptation](#causal-domain-adaptation)
 
 ### Causal Discovery
 |Name|Paper|Code|Dataset|performance
@@ -21,3 +22,7 @@ An index of algorithms in
 |CausalNex|A toolkit for causal reasoning with Bayesian Networks.|[Python](https://github.com/quantumblacklabs/causalnex)|---|---|
 |Tetrad|Tetrad is a modular, object-oriented program for causal inference.|[Java](https://github.com/cmu-phil/tetrad)|---|---|
 |CausalDiscoveryToolbox|[Kalainathan, Diviyan, and Olivier Goudet. "Causal Discovery Toolbox: Uncover causal relationships in Python." arXiv preprint arXiv:1903.02278 (2019).](https://arxiv.org/pdf/1903.02278)|[Python](https://github.com/Diviyan-Kalainathan/CausalDiscoveryToolbox)|---|---|
+
+### Causal Domain Adaptation
+|Name|Paper|Code|Dataset|performance
+
